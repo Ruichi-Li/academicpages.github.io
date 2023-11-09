@@ -7,27 +7,64 @@ redirect_from:
   - /about.html
 ---
 
-# Meet Your Sixth Grade Computer Teacher
+<!DOCTYPE html>
+<html lang="en">
 
-Hello, young tech enthusiasts! 👋
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wolvesville</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
 
-![foo-bar-identity.jpg](https://daviddhc20120601.github.io/academicpages.github.io/images/foo-bar-identity.jpg)
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+        }
 
-I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
 
-## About Mr. Daviddhc20120601
+<body>
+    <header>
+        <h1>Wolvesville</h1>
+    </header>
 
-👩‍🏫 **Name:** Mr. Daviddhc20120601
+    <section>
+        <h2>About Wolvesville</h2>
+        <p>
+            Wolvesville is an exciting multiplayer online game where players take on the roles of villagers and werewolves.
+            The game is set in a mysterious town where deception, strategy, and teamwork are crucial for survival.
+            Villagers must work together to identify and eliminate the werewolves, while the werewolves must cleverly
+            conceal their identities and eliminate villagers without being discovered.
+        </p>
 
-🏫 **Grade:** Sixth Grade
+        <h2>Features</h2>
+        <ul>
+            <li>Engaging multiplayer gameplay</li>
+            <li>Intriguing storyline and setting</li>
+            <li>Roles for both villagers and werewolves</li>
+            <li>Strategic and social interaction</li>
+            <li>Immersive graphics and sound</li>
+        </ul>
+    </section>
+</body>
 
-🖥️ **Subject:** Computer Science
+</html>
 
-With a passion for all things tech and years of experience in making coding, programming, and digital creativity accessible to young minds, Mr. Daviddhc20120601 is here to make learning about computers a blast!
 
-## What to Expect
-
-In Mr. Daviddhc20120601's class, you'll embark on an epic journey into the realms of programming, web development, and all the fun aspects of technology. You'll get hands-on experience with computers, learn to code, and even create your own digital masterpieces. Mr. Daviddhc20120601's class is the gateway to a world of endless possibilities.
-
-So, get ready to explore, learn, and code your way to success under the expert guidance of Mr. Daviddhc20120601. Your computer adventure is about to begin!
 
