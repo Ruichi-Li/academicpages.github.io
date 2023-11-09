@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "RC's Informative Website / LLM, AI, Medtech, edutech"
 title_separator          : "-"
-name                     : &name "RC"
+name                     : &name "daviddhc20120601"
 description              : &description "personal description"
-url                      : https://RC.github.io/academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://daviddhc20120601.github.io/academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RC/academicpages.github.io"
+repository               : "daviddhc20120601/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
