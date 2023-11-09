@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RC's Informative Website"
+title                    : "RC's Informative Website / LLM, AI, Medtech, edutech"
 title_separator          : "-"
 name                     : &name "RC"
 description              : &description "personal description"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RC"
+  github           : "daviddhc20120601"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "RC/"
+  linkedin         : "davidhaidongchen/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
