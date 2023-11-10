@@ -43,6 +43,8 @@ redirect_from:
 
     <section>
         <h2>About Wolvesville</h2>
+        ![Image](data:image/png;base64,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
+
         <p>
             Wolvesville is an immersive multiplayer online game that transports players to the mysterious village of
             Wolvesville. Strategy, deception, and teamwork are essential as players assume the roles of both villagers
@@ -62,7 +64,7 @@ redirect_from:
         <h2>Roles</h2>
 
         
-![Image](https://static.wikia.nocookie.net/werewolf-online/images/0/07/Icon_villager_filled.png/revision/latest/smart/width/250/height/250?cb=20220411182004&path-prefix=fr)<p><strong>Villager:</strong> You are a regular villager without any special abilities.</p>
+        <p><strong>Villager:</strong> You are a regular villager without any special abilities.</p>
         <p><strong>Doctor:</strong> Choose one player to protect every night. That player cannot be killed that night.</p>
         <p><strong>Night watchman:</strong> Thrice per game you can select a player to protect from harm at night. The protection will be consumed even if they aren't attacked. Additionally you will see which players are being protected at night by other players.</p>
         <p><strong>Butcher:</strong> You have 6 pieces of meat that you can give to another player at night to protect them from an attack. Meat given to another player is consumed regardless if it blocked an attack or not. You can protect multiple players in one night.</p>
@@ -110,11 +112,11 @@ redirect_from:
        <p><strong>Cupid:</strong> During the first night you can select two players to be a love couple. You win if the village wins or if the lovers are the last survivors.</p>
        <p><strong>President:</strong> You are the president! Everyone knows who you are! If you die, the village loses.</p>
        <p><strong>Cursed:</strong> You are a villager until the werewolves try to kill you, at which point you become a werewolf. You cannot be converted into another team by the sect leader etc.</p>
-       <p><strong>Grave robber:</strong> </p>
-       <p><strong>Santa Claus:</strong> </p>
-       <p><strong>Easter Bunny:</strong> </p>
-       <p><strong>Pumpkin king:</strong> </p>
-       <p><strong>Instigator:</strong> </p>
+       <p><strong>Grave robber:</strong> At the beginning of the game you are assigned a target. When your target dies, you will steal their role at the beginning of the next day, potentially switching teams.</p>
+       <p><strong>Santa Claus:</strong> You are a villager who only appears during the Christmas time. Each night you can either send a "HO HO HO" to all players or gift a special item to a dead but still connected player. These gifts have no further effect on the game!</p>
+       <p><strong>Easter Bunny:</strong> You are a villager who only appears during the Easter time. Each night you automatically send a greeting to all players. Additionally, you can gift a special item to a dead but still connected player. These gifts have no further effect on the game!</p>
+       <p><strong>Pumpkin king:</strong> Once per game you can go trick or treating by giving your candy bucket to a dead player. That player will add a candy into the bucket and then either pass it on to another dead player, or give it back to you. Once the candy bucket has been returned all players who have given candy will receive a small gift.</p>
+       <p><strong>Instigator:</strong> At the start of the game, two players will join your team as recruits: one a villager or voting role, and one werewolf or solo killer. All members of your team can only win together and no longer with their original team. As the instigator you can send private messages to your team. The two recruits are bound to each other, if one dies, the other die as well. If both recruits are dead, you can kill one player each night yourself.</p>
        <p>But these are only the villager roles! There are still more...</p>
        <p><strong>Werewolf fan:</strong> </p>
     </section>
