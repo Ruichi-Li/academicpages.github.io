@@ -40,10 +40,11 @@ redirect_from:
     <header>
         <h1>Wolvesville</h1>
     </header>
+<img src="https://blog.wolvesville.com/assets/loading-screen-wolvesville.png" alt="Wolvesville Loading Screen">
 
     <section>
         <h2>About Wolvesville</h2>
-       ![Wolvesville Loading Screen](https://blog.wolvesville.com/assets/loading-screen-wolvesville.png)
+       
 
         <p>
             Wolvesville is an immersive multiplayer online game that transports players to the mysterious village of
@@ -118,7 +119,7 @@ redirect_from:
        <p><strong>Pumpkin king:</strong> Once per game you can go trick or treating by giving your candy bucket to a dead player. That player will add a candy into the bucket and then either pass it on to another dead player, or give it back to you. Once the candy bucket has been returned all players who have given candy will receive a small gift.</p>
        <p><strong>Instigator:</strong> At the start of the game, two players will join your team as recruits: one a villager or voting role, and one werewolf or solo killer. All members of your team can only win together and no longer with their original team. As the instigator you can send private messages to your team. The two recruits are bound to each other, if one dies, the other die as well. If both recruits are dead, you can kill one player each night yourself.</p>
        <p>But these are only the villager roles! There are still more...</p>
-       <p><strong>Werewolf fan:</strong> </p>
+       <p><strong>Werewolf fan:</strong> Unknown to the werewolves, you are part of the werewolf team. You do not count towards the werewolf win condition until they try to kill you, at which point you become a regular werewolf. Once per game, you can reveal your role to another player. You cannot be converted into another team by the sect leader etc.</p>
     </section>
 </body>
 
