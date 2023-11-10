@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RC's Informative Website / LLM, AI, Medtech, edutech"
+title                    : "RC's Informative Website"
 title_separator          : "-"
 name                     : &name "daviddhc20120601"
 description              : &description "personal description"
