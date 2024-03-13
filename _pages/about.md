@@ -64,10 +64,21 @@ redirect_from:
 
         <h2>Roles</h2>
 
-        
-       <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwolvesville.fandom.com%2Fwiki%2FVillager&psig=AOvVaw0P_RmiWbAVRgBL3GDGKCZe&ust=1710424281690000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiiuaSx8YQDFQAAAAAdAAAAABAE"> <p><strong>Villager:</strong> You are a regular villager without any special abilities.</p>
-        <p><strong>Doctor:</strong> Choose one player to protect every night. That player cannot be killed that night.</p>
-        <p><strong>Night watchman:</strong> Thrice per game you can select a player to protect from harm at night. The protection will be consumed even if they aren't attacked. Additionally you will see which players are being protected at night by other players.</p>
+<table border="1">
+  <tr>
+    <th>Wolvesville Roles</th><th>Role Descriptions</th>
+  </tr>
+  <tr>
+    <td>Villager</td><td>You are a regular villager without any special abilities.</td>
+  </tr>
+  <tr>
+    <td>Doctor</td><td>Choose one player to protect every night. That player cannot be killed that night.</td>
+  </tr>
+  <tr>
+    <td>Night watchman</td><td>Thrice per game you can select a player to protect from harm at night. The protection will be consumed even if they aren't attacked. Additionally you will see which players are being protected at night by other players.</td>
+  </tr>
+</table>
+      
         <p><strong>Butcher:</strong> You have 6 pieces of meat that you can give to another player at night to protect them from an attack. Meat given to another player is consumed regardless if it blocked an attack or not. You can protect multiple players in one night.</p>
         <p><strong>Bodyguard:</strong> You can choose one player to protect every night. That player cannot be killed that night and instead you will be attacked. Because you are so strong you will survive the first attack, but you will die on the second attack. Every night you automatically protect yourself.</p>
         <p><strong>Tough guy:</strong> You can choose one player to protect every night. If you or that player is attacked, neither dies and instead you and the attacker will both see each others' roles. Because of your injuries, you will die at the end of the following day.</p>
