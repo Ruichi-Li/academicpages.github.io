@@ -99,7 +99,7 @@ redirect_from:
     <td>Judge</td><td>You can select a player to convict them. If votes were cast during the day vote but no player was lynched, this player will be executed instead. If this player is a villager, you will die instead. You can convict two times per game.</td>
   </tr>
   <tr>
-    <td>Vigilante</td><td>During the day you can either shoot or reveal another player. Both actions can only be done once, but not during the same day.</td>
+    <td>Vigilante</td><td>During the day you can either shoot or reveal another player. Only you will be able to see the role of the revealed player. Both actions can only be done once, but not during the same day.</td>
   </tr>
   <tr>
     <td>Jailer</td><td>During the day, you can select a player to put in jail the following night! You can talk to the jailed player at night anonymously. Jailed players cannot use their ability or be attacked. You have one bullet to kill one jailed player during the night.</td>
@@ -173,22 +173,47 @@ redirect_from:
   <tr>
     <td>Witch</td><td>You have two potions. One will kill and the other will protect a player. The protect potion is only consumed if the player was attacked. You cannot kill in the first night.</td>
   </tr>
+  <tr>
+    <td>Forger</td><td>You can forge two shields and one sword. Forging takes one day and each item must be given to another player before forging the next one. Shields will save a player once from being attacked at night. The sword can be used to kill another player.</td>
+  </tr>
+  <tr>
+    <td>Avenger</td><td>After the first night you can select a player to kill when you die.</td>
+  </tr>
+  <tr>
+    <td>Beast hunter</td><td>At night you can place a trap on a player which will become active the following night. This player cannot be killed at night. If the player is attacked by werewolves, the weakest werewolf will die. The attack of solo killers, zombies and the sect leader will trigger the trap but not kill them.</td>
+  </tr>
+  <tr>
+    <td>Trapper</td><td>Each night you can choose to place a trap on a player, or activate placed traps. Placing a trap will cause any active traps to be removed. If a player with an active trap is attacked, they're saved and the trap will trigger. Only activated traps protect. If a protected player is attacked by the wolves, the weakest one dies. Any other attack does not kill the attacker. When a trap is triggered, all traps will be removed at the end of the night. You can place a trap on up to three players.</td>
+  </tr>
+  <tr>
+    <td>Loudmouth</td><td>You can select a player whose role will be revealed to everyone when you die.</td>
+  </tr>
+    <tr>
+    <td>Bell-ringer</td><td>At night, select two players. If one of them dies, the role of the other one will be revealed to you. You can change the selection as long as one of the selected player hasn't died.</td>
+  </tr>
+    <tr>
+    <td>Pacifist</td><td>Once per game you can reveal the role of a player and prevent anybody from voting during that day. Only you will be able to see the role of the revealed player.</td>
+  </tr>
+    <tr>
+    <td>Flower child</td><td>You are a villager who can once protect a player from being lynched by the village.</td>
+  </tr>
+    <tr>
+    <td>Fortune teller</td><td>You have two cards which you can give to other players at night. These players can use these cards to reveal their roles. Non villagers can choose to reveal themselves as a different role. If you are killed, all players with unused cards will have their true role revealed.</td>
+  </tr>
+    <tr>
+    <td>Grumpy grandma</td><td>After the first night you can select a player who cannot talk or vote during the next day.</td>
+  </tr>
+    <tr>
+    <td>Cupid</td><td>During the first night you can select two players to be a love couple. You win if the village wins or if the lovers are the last survivors.</td>
+  </tr>
+    <tr>
+    <td>President</td><td>You are the president! Everyone knows who you are! If you die, the village loses.</td>
+  </tr>
+    <tr>
+    <td>Cursed</td><td>You are a villager until the werewolves try to kill you, at which point you become a werewolf. You cannot be converted into another team by the sect leader etc.</td>
+  </tr>
 </table>      
         
-        
-       <p><strong>Forger:</strong> You can forge two shields and one sword. Forging takes one day and each item must be given to another player before forging the next one. Shields will save a player once from being attacked at night. The sword can be used to kill another player.</p>
-       <p><strong>Avenger:</strong> After the first night you can select a player to kill when you die.</p>
-       <p><strong>Beast hunter:</strong> At night you can place a trap on a player which will become active the following night. This player cannot be killed at night. If the player is attacked by werewolves, the weakest werewolf will die. The attack of solo killers, zombies and the sect leader will trigger the trap but not kill them.</p>
-       <p><strong>Trapper:</strong> Each night you can choose to place a trap on a player, or activate placed traps. Placing a trap will cause any active traps to be removed. If a player with an active trap is attacked, they're saved and the trap will trigger. Only activated traps protect. If a protected player is attacked by the wolves, the weakest one dies. Any other attack does not kill the attacker. When a trap is triggered, all traps will be removed at the end of the night. You can place a trap on up to three players.</p>
-       <p><strong>Loudmouth:</strong> You can select a player whose role will be revealed to everyone when you die.</p>
-       <p><strong>Bell-ringer:</strong> At night, select two players. If one of them dies, the role of the other one will be revealed to you. You can change the selection as long as one of the selected player hasn't died.</p>
-       <p><strong>Pacifist:</strong> Once per game you can reveal the role of a player to everybody and prevent anybody from voting during that day.</p>
-       <p><strong>Flower child:</strong> You are a villager who can once protect a player from being lynched by the village.</p>
-       <p><strong>Fortune teller:</strong> You have two cards which you can give to other players at night. These players can use these cards to reveal their roles. Non villagers can choose to reveal themselves as a different role.</p>
-       <p><strong>Grumpy grandma:</strong> After the first night you can select a player who cannot talk or vote during the next day.</p>
-       <p><strong>Cupid:</strong> During the first night you can select two players to be a love couple. You win if the village wins or if the lovers are the last survivors.</p>
-       <p><strong>President:</strong> You are the president! Everyone knows who you are! If you die, the village loses.</p>
-       <p><strong>Cursed:</strong> You are a villager until the werewolves try to kill you, at which point you become a werewolf. You cannot be converted into another team by the sect leader etc.</p>
        <p><strong>Grave robber:</strong> At the beginning of the game you are assigned a target. When your target dies, you will steal their role at the beginning of the next day, potentially switching teams.</p>
        <p><strong>Santa Claus:</strong> You are a villager who only appears during the Christmas time. Each night you can either send a "HO HO HO" to all players or gift a special item to a dead but still connected player. These gifts have no further effect on the game!</p>
        <p><strong>Easter Bunny:</strong> You are a villager who only appears during the Easter time. Each night you automatically send a greeting to all players. Additionally, you can gift a special item to a dead but still connected player. These gifts have no further effect on the game!</p>
