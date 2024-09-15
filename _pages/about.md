@@ -122,37 +122,37 @@ redirect_from:
   <tr>
     <td>Seer</td><td>Each night you can select a player to uncover their role.</td>
   </tr>
-   <tr>
+  <tr>
     <td>Analyst</td><td>Each night you can select two players to uncover their alignment: good, evil, or unknown. Evil players belong to the werewolves and good players belong to the villagers team. If both players have the same aura, you will be blocked from checking again the next night.</td>
   </tr>
-   <tr>
+  <tr>
     <td>Gambler</td><td>At night, select a player and guess their team. You can only try to guess if a player is from the village team twice during the game.</td>
   </tr>
-   <tr>
+  <tr>
     <td>Aura seer</td><td>Each night you can select a player to uncover their alignment: good, evil or unknown. Evil players belong to the werewolves and good players belong to the villagers team. Unknown targets can be: Random voting or Random killer.</td>
   </tr>
-   <tr>
+  <tr>
     <td>Spirit seer</td><td>Each night you can select up to two players. At the beginning of the next day you will be informed if either of those two players killed last night, or during the previous day in case they are a solo killer.</td>
   </tr>
-   <tr>
+  <tr>
     <td>Mortician</td><td>Each night you can select a player killed by non-villagers and uncover two possible suspects who might have killed that player. If the player was killed by a solo killer, you will uncover three suspects instead.</td>
   </tr>
-   <tr>
+  <tr>
     <td>Seer apprentice</td><td>You are a normal villager until a player with an information role is killed, at which point you inherit their role and all of the information they have gathered. If that player is revived, your role reverts back to seer apprentice.</td>
   </tr>
-   <tr>
+  <tr>
     <td>Detective</td><td>Each night you can select two players to uncover if they are in the same team. Possible teams are: village, werewolves, fool, headhunter, serial killer, etc.</td>
   </tr>
-   <tr>
+  <tr>
     <td>Violinist</td><td>Each night, check if a player is mourning the death of a teammate that died the previous day or night. If multiple players died, you can only compare against the first player that has died.</td>
   </tr>
-   <tr>
+  <tr>
     <td>Sheriff</td><td>At night you can select up to 2 players to watch. If any of them dies during the night, you will uncover two possible suspects who might have killed them.</td>
   </tr>
-   <tr>
+  <tr>
     <td>Medium</td><td>During the night you can talk anonymously with the dead. Once during the game you can select a dead villager at night to revive at the start of the next day.</td>
   </tr>
-   <tr>
+  <tr>
     <td>Ritualist</td><td>During the night you can talk anonymously with the dead. You can cast a spell on a player. When that player dies, they will be revived after a full phase, even if you are already dead.</td>
   </tr>
   <tr>
@@ -188,39 +188,111 @@ redirect_from:
   <tr>
     <td>Loudmouth</td><td>You can select a player whose role will be revealed to everyone when you die.</td>
   </tr>
-    <tr>
+  <tr>
     <td>Bell-ringer</td><td>At night, select two players. If one of them dies, the role of the other one will be revealed to you. You can change the selection as long as one of the selected player hasn't died.</td>
   </tr>
-    <tr>
+  <tr>
     <td>Pacifist</td><td>Once per game you can reveal the role of a player and prevent anybody from voting during that day. Only you will be able to see the role of the revealed player.</td>
   </tr>
-    <tr>
+  <tr>
     <td>Flower child</td><td>You are a villager who can once protect a player from being lynched by the village.</td>
   </tr>
-    <tr>
+  <tr>
     <td>Fortune teller</td><td>You have two cards which you can give to other players at night. These players can use these cards to reveal their roles. Non villagers can choose to reveal themselves as a different role. If you are killed, all players with unused cards will have their true role revealed.</td>
   </tr>
-    <tr>
+  <tr>
     <td>Grumpy grandma</td><td>After the first night you can select a player who cannot talk or vote during the next day.</td>
   </tr>
-    <tr>
+  <tr>
     <td>Cupid</td><td>During the first night you can select two players to be a love couple. You win if the village wins or if the lovers are the last survivors.</td>
   </tr>
-    <tr>
+  <tr>
     <td>President</td><td>You are the president! Everyone knows who you are! If you die, the village loses.</td>
   </tr>
-    <tr>
+  <tr>
     <td>Cursed</td><td>You are a villager until the werewolves try to kill you, at which point you become a werewolf. You cannot be converted into another team by the sect leader etc.</td>
   </tr>
+  <tr>
+    <td>Grave robber</td><td>At the beginning of the game you are assigned a target. When your target dies, you will steal their role at the beginning of the next day, potentially switching teams.</td>
+  </tr>
+  <tr>
+    <td>Santa Claus</td><td>You are a villager who only appears during the Christmas time. Each night you can either send a "HO HO HO" to all players or gift a special item to a dead but still connected player. These gifts have no further effect on the game!</td>
+  </tr>
+  <tr>
+    <td>Easter Bunny</td><td>You are a villager who only appears during the Easter time. Each night you automatically send a greeting to all players. Additionally, you can gift a special item to a dead but still connected player. These gifts have no further effect on the game!</td>
+  </tr>
+  <tr>
+    <td>Pumpkin king</td><td>Once per game you can go trick or treating by giving your candy bucket to a dead player. That player will add a candy into the bucket and then either pass it on to another dead player, or give it back to you. Once the candy bucket has been returned all players who have given candy will receive a small gift.</td>
+  </tr>
+  <tr>
+    <td>Instigator</td><td>At the start of the game, two players will join your team as recruits: one a villager or voting role, and one werewolf or solo killer. All members of your team can only win together and no longer with their original team. As the instigator you can send private messages to your team. The two recruits are bound to each other, if one dies, the other die as well. If both recruits are dead, you can kill one player each night yourself.</td>
+  </tr>
+  <tr>
+    <td>Lurker</td><td>You are not part of any team and  cannot win on your own. The first time you are attacked you will join the team of the attacker. Future attacks will kill you. You cannot be converted directly into a team using conversion abilities. Being lynched by the village will not convert you but will kill you directly instead.</td>
+  </tr>
+  <tr>
+    <td>Werewolf fan</td><td>Unknown to the werewolves, you are part of the werewolf team. You do not count towards the werewolf win condition until they try to kill you, at which point you become a regular werewolf. Once per game, you can reveal your role to another player. You cannot be converted into another team by the sect leader etc.</td>
+  </tr>
+  <tr>
+    <td>Regular werewolf</td><td>Each night you can vote with the wolves on a player to kill.</td>
+  </tr>
+  <tr>
+    <td>Junior werewolf</td><td>You are a junior werewolf. Because you are so cute, you can select another player to be killed when you are killed.</td>
+  </tr>
+  <tr>
+    <td>Wolffluencer</td><td>Each night, select a player to influence. The next day, you will be able to manipulate their vote.</td>
+  </tr>
+  <tr>
+    <td>Nightmare werewolf</td><td>Twice during the game you can select a player during the day to "fall asleep" for one night. That player won't be able to use any abilities for one night.</td>
+  </tr>
+  <tr>
+    <td>Voodoo werewolf</td><td>Twice per game you can mute a player during the day, preventing them from talking and voting. You cannot mute the same player two times in a row. Also, once per game, you can nightmare a player, blocking all their actions during the night.</td>
+  </tr>
+  <tr>
+    <td>Kitten wolf</td><td>You are a werewolf. When you are killed, the next werewolf vote will convert a villager to the werewolf team instead of killing them.</td>
+  </tr>
+  <tr>
+    <td>Wolf shaman</td><td>During the day you can enchant another player. For seers, aura seers, etc. this player will appear to be a wolf shaman at the next night.</td>
+  </tr>
+  <tr>
+    <td>Wolf pacifist</td><td>Once per game you can reveal the role of a player and prevent anybody from voting during that day. Only you and other werewolves will be able to see the role of the revealed player.</td>
+  </tr>
+  <tr>
+    <td>Shadow wolf</td><td>Once per game you can double your team's votes during the day, while hiding all votes.</td>
+  </tr>
+  <tr>
+    <td>Guardian wolf</td><td>You are a werewolf who can once protect a player from being lynched by the village.</td>
+  </tr>
+  <tr>
+    <td>Jelly wolf</td><td>At night, select a player that will be protected once from the village the next day and night, including killing abilities and lynching. Killing abilities are consumed. When successfully saving a player, you become a regular werewolf.</td>
+  </tr>
+  <tr>
+    <td>Werewolf berserk</td><td>Once per game, you can activate a werewolves "frenzy" during the day. If during the next your selected victim is being protected, your victim and all protectors of your victim will die. The frenzy will only be announced to the werewolves.</td>
+  </tr>
+  <tr>
+    <td>Alpha werewolf</td><td>Your night vote counts double. During the day, you can send private messages to the other werewolves that only they can see.</td>
+  </tr>
+  <tr>
+    <td>Wolf summoner</td><td>At night, you can instantly revive one dead werewolf as a regular werewolf.</td>
+  </tr>
+  <tr>
+    <td>Stubborn werewolf</td><td>You are a regular werewolf, just more durable. When you are attacked, you are only wounded. The next attack will kill you.</td>
+  </tr>
+  <tr>
+    <td>Storm wolf</td><td>Two times you can use your ability during the discussion phase to shuffle the position of all alive players, hide votes of the day vote and delete all messages from the day chat.</td>
+  </tr>
+  <tr>
+    <td>Wolf seer</td><td>Each night you can select a player to uncover their role. If you are the last werewolf or you resign your ability, you become a regular werewolf.</td>
+  </tr>
+  <tr>
+    <td>Blind werewolf</td><td>Each night you can select two players to uncover which random role they belong to. The possibilities are regular villager, strong villager, voting, killer or other. If you are the last werewolf or you resign your ability, you become a regular werewolf.</td>
+  </tr>
+  <tr>
+    <td>Split wolf</td><td>You can choose to bind yourself to another player. If you do this, you will count double to the werewolf win condition. If you are killed, your target is killed as well. However, if your target is killed, your role will be revealed to everyone. You can change your bind at any time.</td>
+  </tr>  
 </table>      
-        
-       <p><strong>Grave robber:</strong> At the beginning of the game you are assigned a target. When your target dies, you will steal their role at the beginning of the next day, potentially switching teams.</p>
-       <p><strong>Santa Claus:</strong> You are a villager who only appears during the Christmas time. Each night you can either send a "HO HO HO" to all players or gift a special item to a dead but still connected player. These gifts have no further effect on the game!</p>
-       <p><strong>Easter Bunny:</strong> You are a villager who only appears during the Easter time. Each night you automatically send a greeting to all players. Additionally, you can gift a special item to a dead but still connected player. These gifts have no further effect on the game!</p>
-       <p><strong>Pumpkin king:</strong> Once per game you can go trick or treating by giving your candy bucket to a dead player. That player will add a candy into the bucket and then either pass it on to another dead player, or give it back to you. Once the candy bucket has been returned all players who have given candy will receive a small gift.</p>
-       <p><strong>Instigator:</strong> At the start of the game, two players will join your team as recruits: one a villager or voting role, and one werewolf or solo killer. All members of your team can only win together and no longer with their original team. As the instigator you can send private messages to your team. The two recruits are bound to each other, if one dies, the other die as well. If both recruits are dead, you can kill one player each night yourself.</p>
-       <p>But these are only the villager roles! There are still more...</p>
-       <p><strong>Werewolf fan:</strong> Unknown to the werewolves, you are part of the werewolf team. You do not count towards the werewolf win condition until they try to kill you, at which point you become a regular werewolf. Once per game, you can reveal your role to another player. You cannot be converted into another team by the sect leader etc.</p>
+
+
     </section>
 </body>
 
